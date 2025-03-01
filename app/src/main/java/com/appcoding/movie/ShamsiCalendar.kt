@@ -39,8 +39,8 @@ fun Calendar(){
 
 
          val shamsi_date = remember { ConvertGeotgianToPersian(today, "convert") }
-        var dayName = remember { ConvertGeotgianToPersian(today, "day") }
-        var monthName = remember { ConvertGeotgianToPersian(today, "month") }
+        val dayName = remember { ConvertGeotgianToPersian(today, "day") }
+        val monthName = remember { ConvertGeotgianToPersian(today, "month") }
         val shamsiDay = shamsi_date.split("/")[2]
         val shamsiYear = shamsi_date.split("/")[0]
         val days = remember { ConvertGeotgianToPersian(today, "days").toInt() }
@@ -140,6 +140,6 @@ fun Calendar(){
 
 @Preview(showBackground = true)
 @Composable
-fun preview(){
+fun Preview(){
     Calendar()
 }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="home_calendar_background">#6c606e</color>
+    <color name="home_calendar_dayofweek">#f7f6fb</color>
+    <color name="home_background">#f7f6fb</color>
+    <color name="home_calendar_selected_day">#ff7d52</color>
+    <color name="home_calendar_day">#f3aa98</color>
+    <color name="home_todo_list">#fea28b</color>
+    <color name="home_icon_tint">#FB6446</color>
+    <color name="add_todo">#B42B11</color>
+    <color name="add_todo_tik">#B42B11</color>
+    <color name="home_icon_title">#000000</color>
+    <color name="add_todo_background">#f7f6fb</color>
+
+    <color name="calendar_month_background">#6c606e</color>
+    <color name="calendar_month_next_back">#ff7d52</color>
+    <color name="calendar_days_background">#fea28b</color>
+    <color name="calendar_days_text">#000000</color>
+    <color name="calendar_month_text">#ffffff</color>
+
+
+    <color name="home_note">#f0e3db</color>
+    <color name="home_icon_box">#ffffff</color>
+    <color name="color2">#eabcad</color>
+    <color name="color3">#f8ceb6</color>
+    <color name="color4">#bd958e</color>
+    <color name="color5">#ebbbad</color>
+
+    <color name="add_note_horizontal_line">#6c606e</color>
+
+
+</resources>
